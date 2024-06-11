@@ -1,16 +1,7 @@
 # anime
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+search and get infomation about anime add it your favs
+![<img src="Screenshot_20240611-141803" width="150" height="300"/>](https://github.com/RahulYadav23/favourite_anime_app/assets/41335779/cb2cfc92-b46f-4719-bb00-1470cfe0debf)
+![<img src="Screenshot_20240611-14182" width="150"/>](https://github.com/RahulYadav23/favourite_anime_app/assets/41335779/714811f7-a666-46dd-9f0d-e7468323f896)
+![<img src="Screenshot_20240611-141848" width="150"/>](https://github.com/RahulYadav23/favourite_anime_app/assets/41335779/77a95bf8-3fc3-43f2-b580-551205282a0b)
+![<img src="Screenshot_20240611-141856" width="150"/>](https://github.com/RahulYadav23/favourite_anime_app/assets/41335779/63a26bde-c458-4953-866a-e86f7ad70337)
